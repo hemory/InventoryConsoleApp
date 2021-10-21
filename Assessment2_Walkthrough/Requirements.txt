@@ -1,0 +1,55 @@
+Build Specifications (see the sample console output at the end) 
+
+ 
+
+Create an initial collection of items to stock in the inventory, with the following starter items: (10 pts) 
+
+Broccoli 
+
+Tomatoes 
+
+Zucchini 
+
+ 
+
+Present the user with a menu of the following options: (10 pts) 
+
+Add Items 
+
+Remove an Item 
+
+View Inventory 
+
+ 
+
+(1) Add Items: (25 pts) 
+
+If the user chooses (1) Add Items, ask how many new items they would like to add to the collection. Based on the number of items the user chooses, prompt them that many times to enter an item and add it to the collection. 
+
+Ask the user if they want to return to the menu. If so, present them with the menu again. If not, bid them farewell and end the application. 
+
+ 
+
+(2) Remove an Item: (25 pts) 
+
+If the user chooses (2) Remove an Item, prompt them for the name, remove the item from the collection, and inform them the item was successfully removed. 
+
+Ask them if they want to want to remove another item. If they choose yes loop back through the previous steps. If no, ask the user if they want to return to the menu. If so, present them with the menu again. If not, bid them farewell and end the application. 
+
+ 
+
+(3) View Inventory: (15 pts) 
+
+If the user chooses (3) View Inventory, iterate through the collection and print each item to the console. 
+
+Ask the user if they want to return to the menu. If so, present them with the menu again. If not, bid them farewell and end the application. 
+
+ 
+
+Error Handling: (15 pts) 
+
+At a minimum, implement the following error handling: 
+
+When selecting from the menu, prompt the user again if they enter anything but 1, 2, or 3. 
+
+When asking if the user wants to return to the menu, prompt them again if they enter anything but ‘y’ or ‘n’. 

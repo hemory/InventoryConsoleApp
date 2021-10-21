@@ -1,0 +1,13 @@
+/Users/HPhifer/RiderProjects/Assessment2_Walkthrough/Assessment2_Walkthrough/bin/Debug/netcoreapp3.1/Assessment2_Walkthrough.deps.json
+/Users/HPhifer/RiderProjects/Assessment2_Walkthrough/Assessment2_Walkthrough/bin/Debug/netcoreapp3.1/Assessment2_Walkthrough.runtimeconfig.json
+/Users/HPhifer/RiderProjects/Assessment2_Walkthrough/Assessment2_Walkthrough/bin/Debug/netcoreapp3.1/Assessment2_Walkthrough.runtimeconfig.dev.json
+/Users/HPhifer/RiderProjects/Assessment2_Walkthrough/Assessment2_Walkthrough/bin/Debug/netcoreapp3.1/Assessment2_Walkthrough.dll
+/Users/HPhifer/RiderProjects/Assessment2_Walkthrough/Assessment2_Walkthrough/bin/Debug/netcoreapp3.1/Assessment2_Walkthrough.pdb
+/Users/HPhifer/RiderProjects/Assessment2_Walkthrough/Assessment2_Walkthrough/obj/Debug/netcoreapp3.1/Assessment2_Walkthrough.csproj.AssemblyReference.cache
+/Users/HPhifer/RiderProjects/Assessment2_Walkthrough/Assessment2_Walkthrough/obj/Debug/netcoreapp3.1/Assessment2_Walkthrough.GeneratedMSBuildEditorConfig.editorconfig
+/Users/HPhifer/RiderProjects/Assessment2_Walkthrough/Assessment2_Walkthrough/obj/Debug/netcoreapp3.1/Assessment2_Walkthrough.AssemblyInfoInputs.cache
+/Users/HPhifer/RiderProjects/Assessment2_Walkthrough/Assessment2_Walkthrough/obj/Debug/netcoreapp3.1/Assessment2_Walkthrough.AssemblyInfo.cs
+/Users/HPhifer/RiderProjects/Assessment2_Walkthrough/Assessment2_Walkthrough/obj/Debug/netcoreapp3.1/Assessment2_Walkthrough.csproj.CoreCompileInputs.cache
+/Users/HPhifer/RiderProjects/Assessment2_Walkthrough/Assessment2_Walkthrough/obj/Debug/netcoreapp3.1/Assessment2_Walkthrough.dll
+/Users/HPhifer/RiderProjects/Assessment2_Walkthrough/Assessment2_Walkthrough/obj/Debug/netcoreapp3.1/Assessment2_Walkthrough.pdb
+/Users/HPhifer/RiderProjects/Assessment2_Walkthrough/Assessment2_Walkthrough/obj/Debug/netcoreapp3.1/Assessment2_Walkthrough.genruntimeconfig.cache
